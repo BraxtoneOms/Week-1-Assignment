@@ -35,13 +35,13 @@ f) Contact Us
 
 **Code Overview**
 **Main Components**
- Header: Website title, main page heading, and date.
-
- Navigation: Internal links for quick jumping to major sections.
-
- Main Content: Includes a summary of the FTC action, its implications, business recommendations, and descriptions of services.
-
- Footer: Copyright.
+           a) Header: Website title, main page heading, and date.
+          
+           b) Navigation: Internal links for quick jumping to major sections.
+          
+           c) Main Content: Includes a summary of the FTC action, its implications, business recommendations, and descriptions of services.
+          
+           d) Footer: Copyright.
 
 **Accessibility & SEO Highlights**
   i) All main navigation uses semantic HTML (<nav>, <header>, <main>, <section>, <article>, <footer>).
